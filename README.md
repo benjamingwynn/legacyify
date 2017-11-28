@@ -23,3 +23,5 @@ On GitHub.com using emulated IE5
 ### After
 
 ![github after](http://tinyimg.io/i/IJpvNO6.png)
+
+**Please note** only the hyperlinks work, the form does nothing, however, all of the content is readable which I'd call an improvement.
